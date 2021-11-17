@@ -1,0 +1,13 @@
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.exe
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.deps.json
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.runtimeconfig.json
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.runtimeconfig.dev.json
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.dll
+C:\Users\onal9\21deneme\roma_carpma\bin\Debug\netcoreapp3.1\roma_carpma.pdb
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.csprojAssemblyReference.cache
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.AssemblyInfoInputs.cache
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.AssemblyInfo.cs
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.csproj.CoreCompileInputs.cache
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.dll
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.pdb
+C:\Users\onal9\21deneme\roma_carpma\obj\Debug\netcoreapp3.1\roma_carpma.genruntimeconfig.cache
